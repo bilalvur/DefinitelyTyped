@@ -1,0 +1,26 @@
+types/hubspot-tracking-code/hubspot-tracking-code-tests.ts
+  s_f2d30eb120487f::t_5cb0ba82cba316 1-28,31-42
+  s_f2d30eb120487f::t_8130b1ad604994 29-30
+types/hubspot-tracking-code/tsconfig.json
+  s_f2d30eb120487f::t_a52ddef4169609 1-20
+types/hubspot-tracking-code/package.json
+  s_f2d30eb120487f::t_175e4071e7cfd7 1-19
+types/hubspot-tracking-code/index.d.ts
+  s_f2d30eb120487f::t_435d6e6ca28242 1-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.4",
+  "base_commit_sha": "4b66ce0e460236b6c89f0e5d83e12811d17e4615",
+  "prompts": {},
+  "sessions": {
+    "s_f2d30eb120487f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "90aca7e8-0ae5-4bc7-9915-ad231a59f237",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Bilal Vural <bilal.vural@spanflug.de>"
+    }
+  }
+}
