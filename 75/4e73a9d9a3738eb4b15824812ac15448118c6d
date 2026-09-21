@@ -1,0 +1,21 @@
+types/hubspot-tracking-code/hubspot-tracking-code-tests.ts
+  s_06030e55a5b2ed::t_f1c73931cd8945 27-28
+types/hubspot-tracking-code/index.d.ts
+  s_06030e55a5b2ed::t_1b9bb85790a0cf 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "754e73a9d9a3738eb4b15824812ac15448118c6d",
+  "prompts": {},
+  "sessions": {
+    "s_06030e55a5b2ed": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "645aa0b3-7a29-4711-97f0-45bd4afa29a3",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Bilal Vural <11067812+bilalvur@users.noreply.github.com>"
+    }
+  }
+}
